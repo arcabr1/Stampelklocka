@@ -1,8 +1,0 @@
-{    
-  "name": "Stämpelklocka",    
-  "short_name": "Stämpel",    
-  "start_url": "./stampelklocka.html",    
-  "display": "standalone",    
-  "background_color": "#eaf2fb",    
-  "theme_color": "#3478e2"    
-}    
